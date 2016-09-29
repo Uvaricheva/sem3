@@ -1,4 +1,0 @@
-C:/Users/yvarc/Desktop/печать/kf,f/build/CMakeFiles/phw.dir
-C:/Users/yvarc/Desktop/печать/kf,f/build/CMakeFiles/main.dir
-C:/Users/yvarc/Desktop/печать/kf,f/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/yvarc/Desktop/печать/kf,f/build/CMakeFiles/ZERO_CHECK.dir

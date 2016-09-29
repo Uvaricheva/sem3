@@ -1,0 +1,11 @@
+language: cpp
+
+matrix:
+  include:
+    - os: linux
+      env: COMPILER_NAME=gcc CXX=g++-5
+
+script:
+  - cd lab1
+  - mkdir build && cd build
+  - cmake .. && make
