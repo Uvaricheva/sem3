@@ -8,7 +8,7 @@ set(SOURCE_EXE examples/main.cpp)
 
 set(SOURCE_LIB sources/positive.cpp)	
 
-set(SOURCE_TEST tests/main.cpp)
+set(TESTS_SOURCE tests/main.cpp)
 
 add_library(phw STATIC ${SOURCE_LIB})	
 
