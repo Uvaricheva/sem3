@@ -6,6 +6,7 @@ matrix:
       env: COMPILER_NAME=gcc CXX=g++-5
 
 script:
-  - cd lab1
+  - cd lab2
   - mkdir build && cd build
   - cmake .. && make
+  - ./tests -s -r compact
