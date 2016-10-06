@@ -1,3 +1,3 @@
 bool is_positive(int num){
-	return num>0
+	return num>0;
 }
