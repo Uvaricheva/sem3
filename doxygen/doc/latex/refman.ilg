@@ -1,0 +1,19 @@
+This is makeindex, version 2.15 [MiKTeX 2.9.6100 64-bit] (kpathsea + Thai support).
+Scanning input file refman.idx....
+!! Input index error (file = refman.idx, line = 4):
+   -- Extra `@' at position 117 of first argument.
+!! Input index error (file = refman.idx, line = 5):
+   -- Extra `@' at position 135 of first argument.
+!! Input index error (file = refman.idx, line = 6):
+   -- Extra `@' at position 146 of first argument.
+!! Input index error (file = refman.idx, line = 7):
+   -- Extra `@' at position 164 of first argument.
+!! Input index error (file = refman.idx, line = 8):
+   -- Extra `@' at position 146 of first argument.
+!! Input index error (file = refman.idx, line = 9):
+   -- Extra `@' at position 164 of first argument.
+done (6 entries accepted, 6 rejected).
+Sorting entries....done (16 comparisons).
+Generating output file refman.ind....done (18 lines written, 0 warnings).
+Output written in refman.ind.
+Transcript written in refman.ilg.

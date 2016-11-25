@@ -1,0 +1,18 @@
+\begin{theindex}
+
+  \item {Color}
+    \subitem {Doxygen}, \hyperpage{5}
+
+  \indexspace
+
+  \item {Doxygen}, \hyperpage{5}
+    \subitem {Color}, \hyperpage{5}
+  \item {Doxygen\+::\+Test\+\_\+class}, \hyperpage{7}
+    \subitem {Test\+\_\+function}, \hyperpage{7}
+
+  \indexspace
+
+  \item {Test\+\_\+function}
+    \subitem {Doxygen\+::\+Test\+\_\+class}, \hyperpage{7}
+
+\end{theindex}
